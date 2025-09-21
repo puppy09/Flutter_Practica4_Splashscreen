@@ -1,0 +1,5 @@
+package com.example.practica4_splashscreen
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
