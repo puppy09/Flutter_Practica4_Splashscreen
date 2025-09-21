@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage>{
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors. deepOrange[200],
-        title: Text('Practica 3'),
+        title: Text('Practica 3 - Splash Screen'),
         centerTitle: true,
         ),
         body: Center(
